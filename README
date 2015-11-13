@@ -1,0 +1,20 @@
+InpresZone_JAVA
+_______________
+
+ChangeLog
+_________
+
+- Mise à jour mineure.
+- Recherche suivant l'artiste (auteur du livre, acteur d'un film).
+- Obtimisation du traitement CouchDB.
+- Vérifications via l'interface graphique.
+- Chargement des images en mémoire.
+- Ajout d'une barre de progression (thread).
+- Optimisation globale (boucles, traitement inutiles, etc).
+- Correction de bugs (langues, sous-titres, etc).
+- Obtimisation des interfaces graphique (ergonomie, etc).
+- Création des interfaces graphique.
+- Interaction avec la base de données MySQL (création des bases, etc).
+- Interaction avec la base de données Oracle (création des bases, etc).
+- Interaction avec la base de données CouchDB (création des vues, etc).
+- Création de la première version de l'application.
